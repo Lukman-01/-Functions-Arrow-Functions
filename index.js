@@ -29,7 +29,7 @@ while(true){
 
     console.log("\n You guessed the number right! \n");
     console.log("The random number generated is: ",randomNumber);
-    console.log("\nYou nw have ",point,"point");
+    console.log("\nYou now have ",point,"point");
     
     userGuess = parseInt(prompt("\nHey user you have now moved to stage " + stage + ", guess another number: "));
     
